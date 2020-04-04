@@ -3,3 +3,6 @@
 no one has to read it for sure :>
 
 we are on the develop branch
+
+feature 2 added by develop :)
+another statement added after merging with feature2/develop
